@@ -1,5 +1,5 @@
 # ✦ Yeonee
-* * *   
+
 ✶ Introduction
 ------------
 * ❄️Sookmyung Women's Univ Computer Science
