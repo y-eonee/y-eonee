@@ -22,6 +22,7 @@ function paintTodo(newTodo){
     const span = document.createElement("span");
     span.innerText = newTodo.text;
     const button = document.createElement("button");
+    button.classList.add("transparentBtn");
     button.innerText = "❌";
 
     button.addEventListener("click", deleteTodo);
