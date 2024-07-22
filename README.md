@@ -1,5 +1,3 @@
-# ✦ Yeonee
-
 ✶ Introduction
 ------------
 ❄️ Sookmyung Women's Univ Computer Science 22
