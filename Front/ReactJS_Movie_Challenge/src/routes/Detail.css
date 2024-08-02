@@ -1,0 +1,51 @@
+body{
+    justify-content: center; 
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 0; /* 기본 여백 리셋 */
+}
+
+#detail-container{
+    background-color: (0,0,0,0); /* 각 영화 컨테이너의 배경색 */
+    padding: 20px; /* 컨테이너 내부 여백 */
+    margin: 20px auto; /* 컨테이너 간격 */
+    border-radius: 10px; /* 둥근 모서리 */
+    border: 1px solid #444; /* 경계선 */
+    max-width: 800px; /* 최대 너비 */
+    overflow: hidden; /* 플로팅된 요소가 컨테이너를 벗어나지 않도록 */
+}
+
+.detail-title{
+    justify-content: center; 
+    align-items: center;
+    display: flex;
+}
+
+.detail-image{
+    margin-bottom: 20px; /* 이미지와 설명 간의 간격 */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.detail-image img {
+    max-width: 100%; /* 이미지가 컨테이너를 넘지 않도록 조정 */
+    height: auto; /* 비율 유지 */
+}
+
+.detail-rating{
+    justify-content: center; 
+    align-items: center;
+    display: flex;
+}
+
+.detail-genre{
+    justify-content: center; 
+    align-items: center;
+    display: flex;
+}
+
+.detail-description{
+    line-height: 180%;
+}
