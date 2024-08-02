@@ -1,1 +1,1 @@
-publishing link >> https://y-eonee.github.io/ReactJS_Movie_Challenge
+* publishing link >> https://y-eonee.github.io/ReactJS_Movie_Challenge
