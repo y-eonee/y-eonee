@@ -13,8 +13,8 @@ function App() {
   return <Router>
     <Header />
     <Routes>
-      <Route path="/movie/:id" element = {<Detail/>} /> //movie id별 route 설정
-      <Route path="/" element={<Home/>} /> //home route 설정
+      <Route path="/movie/:id" element = {<Detail/>} /> {/*movie id별 route 설정*/}
+      <Route path="/" element={<Home/>} /> {/*home route 설정*/}
     </Routes>
   </Router>;
   
