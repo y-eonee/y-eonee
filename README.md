@@ -4,7 +4,7 @@
 ❄️ Visual & Media Design (minor)   
 ❄️ Studying Frontend   
 * 2023.03 ~ 2024.02 중앙 프로그래밍 동아리 Solux
-* 2024.03 ~ 게임 개발 동아리 Tums
+* 2024.03 ~ 2024.08 숙명 게임 개발 동아리 Tums
 * React, JavaScript, Three.js, Unity
   
 <!--
