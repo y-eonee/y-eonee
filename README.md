@@ -2,7 +2,7 @@
 ------------
 ❄️ Sookmyung Women's Univ Computer Science 22   
 ❄️ Visual & Media Design (minor)   
-❄️ Studying Frontend (Web, iOS)   
+❄️ Studying Frontend   
 
 * 2023.03 ~ 2024.02 중앙 프로그래밍 동아리 Solux
 * 2024.03 ~ 2024.08 숙명 게임 개발 동아리 Tums
