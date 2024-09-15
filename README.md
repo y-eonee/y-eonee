@@ -2,10 +2,12 @@
 ------------
 ❄️ Sookmyung Women's Univ Computer Science 22   
 ❄️ Visual & Media Design (minor)   
-❄️ Studying Frontend   
+❄️ Studying Frontend (Web, iOS)   
+
 * 2023.03 ~ 2024.02 중앙 프로그래밍 동아리 Solux
 * 2024.03 ~ 2024.08 숙명 게임 개발 동아리 Tums
-* React, JavaScript, Three.js, Unity
+* React, JavaScript, Three.js,
+
   
 <!--
 **y-eonee/y-eonee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
