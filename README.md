@@ -23,6 +23,7 @@
 | 2023.09 ~ 2024.02 | [EcoGuardians](https://github.com/y-eonee/28th_2_UNICON_Ecoguardians_unity)   | Team         | Client          | Unity
 | 2024.03 ~ 2024.08 | [가라사니](https://github.com/y-eonee/SMWU-TUMS-Garasani)                       | Team         | Client          | Unity
 | 2024.08 ~         | [CosmicMiner](https://github.com/y-eonee/SMWU-Tree-CosmicMiner)               | Team         | Frontend        | React
+| 2024.09 ~         | [숙티티](https://github.com/sooktin/frontend_repository)                        | Team         | Frontend        | React
 | 2024.09           | [뿌리깊은나무](https://github.com/y-eonee/COKOTHON-GBSB-Fe)                      | Team         | Frontend        | React
 
  
