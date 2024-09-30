@@ -9,12 +9,12 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 ### __✶ Im in ...__
-💻 2023.03 ~ 2024.02 중앙 프로그래밍 동아리 Solux
+💻 2023.03 ~ 2024.02 중앙 프로그래밍 동아리 Solux   
 👾 2024.03 ~ 2024.08 숙명 게임 개발 동아리 Tums
 
 ### __✶ Experience__
 ❄️ 2022.03 ~ 2023.12 숙명여대 소프트웨어학부 학생회   
-🔥 2024.08 게임개발연합 유니데브 [UNICON](https://github.com/y-eonee/SMWU-TUMS-Garasani)   
+🔥 2024.08 게임개발연합 유니데브 [UNICON](https://github.com/y-eonee/SMWU-TUMS-Garasani)    
 🏅 2024.09 숙명여대X국민대 연합 해커톤 [COKOTON](https://github.com/y-eonee/COKOTHON-GBSB-Fe) 장려상 
 
 ### __✶ Project__
