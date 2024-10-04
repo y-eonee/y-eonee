@@ -14,7 +14,7 @@
 👾 2024.03 ~ 2024.08 숙명 게임 개발 동아리 Tums
 
 ### __✶ Experience__ 
-🔥 2024.08 게임개발연합 유니데브 [UNICON](https://github.com/y-eonee/SMWU-TUMS-Garasani)    
+🔥 2024.08 게임개발연합 유니데브 [UNICON](https://github.com/y-eonee/SMWU-TUMS-Garasani) 참가       
 🏅 2024.09 숙명여대X국민대 연합 해커톤 [COKOTON](https://github.com/y-eonee/COKOTHON-GBSB-Fe) 장려상 
 
 ### __✶ Project__
@@ -30,17 +30,3 @@
 ### __✶ Contact__
 ✉️ leenayeon@sookmyung.ac.kr
   
-<!--
-**y-eonee/y-eonee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
