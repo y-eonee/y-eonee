@@ -16,16 +16,17 @@
 ### __✶ Experience__ 
 🔥 2024.08 게임개발연합 유니데브 [UNICON](https://github.com/y-eonee/SMWU-TUMS-Garasani) 참가       
 🏅 2024.09 숙명여대X국민대 연합 해커톤 [COKOTON](https://github.com/y-eonee/COKOTHON-GBSB-Fe) 장려상 
+🔥 2024.11 소프트웨어중심사업단 연합해커톤 [Uni-DThon](https://github.com/UNI-D-Roomie/Roomie_FE) 참가
 
 ### __✶ Project__
 |                    | title                                                                        | type          | role           | stack        |
 |--------------------|------------------------------------------------------------------------------|--------------|-----------------|--------------|
 | 2023.09 ~ 2024.02 | [EcoGuardians](https://github.com/y-eonee/28th_2_UNICON_Ecoguardians_unity)   | Team         | Client          | Unity
 | 2024.03 ~ 2024.08 | [가라사니](https://github.com/y-eonee/SMWU-TUMS-Garasani)                       | Team         | Client          | Unity
-| 2024.08 ~ 2024.09 | [CosmicMiner](https://github.com/y-eonee/SMWU-Tree-CosmicMiner)               | Team         | Frontend        | React
-| 2024.09 ~         | [숙티티](https://github.com/sooktin/frontend_repository)                        | Team         | Frontend        | React
-| 2024.09           | [뿌리깊은나무](https://github.com/y-eonee/COKOTHON-GBSB-Fe)                      | Team         | Frontend        | React
-
+| 2024.08 ~ 2024.09 | [CosmicMiner](https://github.com/y-eonee/SMWU-Tree-CosmicMiner)               | Team         | Frontend        | React JS     
+| 2024.09 ~         | [숙티티](https://github.com/sooktin/frontend_repository)                        | Team         | Frontend        | React JS
+| 2024.09           | [뿌리깊은나무](https://github.com/y-eonee/COKOTHON-GBSB-Fe)                      | Team         | Frontend        | React JS
+| 2024.11           | [Roomie](https://github.com/UNI-D-Roomie/Roomie_FE)                           | Team         | Frontend        | React TS
  
 ### __✶ Contact__
 ✉️ leenayeon@sookmyung.ac.kr
