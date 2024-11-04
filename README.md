@@ -15,7 +15,7 @@
 
 ### __✶ Experience__ 
 🔥 2024.08 게임개발연합 유니데브 [UNICON](https://github.com/y-eonee/SMWU-TUMS-Garasani) 참가       
-🏅 2024.09 숙명여대X국민대 연합 해커톤 [COKOTON](https://github.com/y-eonee/COKOTHON-GBSB-Fe) 장려상 
+🏅 2024.09 숙명여대X국민대 연합 해커톤 [COKOTON](https://github.com/y-eonee/COKOTHON-GBSB-Fe) 장려상    
 🔥 2024.11 소프트웨어중심사업단 연합해커톤 [Uni-DThon](https://github.com/UNI-D-Roomie/Roomie_FE) 참가
 
 ### __✶ Project__
