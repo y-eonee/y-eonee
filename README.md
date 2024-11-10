@@ -6,8 +6,8 @@
 ### __✶ Skills__ 
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-sqare&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-sqare&logo=javascript&logoColor=black">   
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-sqare&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/three.js-049EF4?style=flat-square&logo=three.js&logoColor=white"> <img src="https://img.shields.io/badge/react three fiber-656565?style=flat-sqare&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white">   
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">   
-<img src="https://img.shields.io/badge/unity-000000?style=flat-sqare&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white">   
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">   
+<img src="https://img.shields.io/badge/unity-000000?style=flat-sqare&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white">   
 <img src="https://img.shields.io/badge/github-181717?style=flat-sqare&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"> <img 
  src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white">
 
