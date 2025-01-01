@@ -9,15 +9,10 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat-sqare&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"> <img 
  src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white">
 
-### __✶ Im in ..._   
-💻 2023.03 ~ 2024.02 중앙 프로그래밍 동아리 Solux   
-👾 2024.03 ~ 2024.08 숙명 게임 개발 동아리 Tums
+### __✶ Velog__ 
+<a href="https://velog.io/@zaman17"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>   
 
 ### __✶ Experience__ 
 🔥 2024.08 게임개발연합 유니데브 [UNICON](https://github.com/y-eonee/SMWU-TUMS-Garasani) 참가       
 🏅 2024.09 숙명여대X국민대 연합 해커톤 [COKOTON](https://github.com/y-eonee/COKOTHON-GBSB-Fe) 장려상    
 🔥 2024.11 소프트웨어중심사업단 연합해커톤 [Uni-DThon](https://github.com/UNI-D-Roomie/Roomie_FE) 참가
-
-### __✶ Contact__
-✉️ leenayeon@sookmyung.ac.kr   
-[velog](https://velog.io/@y-eonee) 🔀
