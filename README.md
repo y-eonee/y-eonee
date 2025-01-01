@@ -20,4 +20,4 @@
 
 ### __✶ Contact__
 ✉️ leenayeon@sookmyung.ac.kr
-  
+[velog](https://velog.io/@y-eonee) 🔀
