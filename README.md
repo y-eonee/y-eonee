@@ -19,5 +19,5 @@
 🔥 2024.11 소프트웨어중심사업단 연합해커톤 [Uni-DThon](https://github.com/UNI-D-Roomie/Roomie_FE) 참가
 
 ### __✶ Contact__
-✉️ leenayeon@sookmyung.ac.kr
+✉️ leenayeon@sookmyung.ac.kr   
 [velog](https://velog.io/@y-eonee) 🔀
