@@ -10,7 +10,7 @@
  src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white">
 
 ### __✶ Velog__ 
-<a href="https://velog.io/@zaman17"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>   
+<a href="https://velog.io/@y-eonee"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@y-eonee"/></a>   
 
 ### __✶ Experience__ 
 🔥 2024.08 게임개발연합 유니데브 [UNICON](https://github.com/y-eonee/SMWU-TUMS-Garasani) 참가       
