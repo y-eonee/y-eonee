@@ -1,7 +1,7 @@
 ### __Introduction__
 💻 Sookmyung Women's Univ Computer Science 22   
 🎨 Visual & Media Design (minor)   
-🍦 AT SOPT iOS YB
+🍦 AT SOPT iOS YB   
 👩🏻‍💻 Studying Frontend   
 
 ### __Stacks__ 
