@@ -4,8 +4,7 @@
 👩🏻‍💻 Studying Frontend   
 
 ### __Stacks__ 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![UIkit](https://img.shields.io/badge/uikit-000000?style=for-the-badge&logo=uikit&logoColor=white)   
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![UIkit](https://img.shields.io/badge/uikit-000000?style=for-the-badge&logo=uikit&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ### __Experience__ 
