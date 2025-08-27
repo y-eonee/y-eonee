@@ -11,8 +11,8 @@
 🔥 2024.08 게임개발연합 유니데브 [UNICON](https://github.com/y-eonee/SMWU-TUMS-Garasani) 참가       
 🏅 2024.09 숙명여대X국민대 연합 해커톤 [COKOTON](https://github.com/y-eonee/COKOTHON-GBSB-Fe) 장려상    
 🔥 2024.11 소프트웨어중심사업단 연합해커톤 [Uni-DThon](https://github.com/UNI-D-Roomie/Roomie_FE) 참가   
-👩🏻‍💻 2025.03 ~ 2025.08 36기 AT SOPT iOS YB   
-👩🏻‍💻 2025.08 ~ 2026.02 37기 DIVE SOPT iOS OB
+👩🏻‍💻 2025.03 ~ 2025.07 36기 AT SOPT iOS YB   
+👩🏻‍💻 2025.09 ~ 2026.02 37기 DIVE SOPT iOS OB
          
 ### __Velog__ 
 <a href="https://velog.io/@y-eonee"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@y-eonee"/></a>   
