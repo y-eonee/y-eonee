@@ -1,10 +1,10 @@
 ### __Introduction__
 💻 Sookmyung Women's Univ Computer Science 22   
 🎨 Visual & Media Design (minor)   
-👩🏻‍💻 Studying Frontend   
-
+ 
 ### __Stacks__ 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![UIkit](https://img.shields.io/badge/uikit-000000?style=for-the-badge&logo=uikit&logoColor=white)   
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![UIkit](https://img.shields.io/badge/UIkit-%232396F3?style=for-the-badge&logo=uikit&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/swiftUI-%232396F3?style=for-the-badge&logo=swift&logoColor=white)   
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ### __Experience__ 
