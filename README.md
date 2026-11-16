@@ -13,5 +13,5 @@
 🔥 2024.11 소프트웨어중심사업단 연합해커톤 Uni-DThon 참가   
 👩🏻‍💻 2025.03 ~ 2025.07 36기 AT SOPT iOS YB   
 👩🏻‍💻 2025.09 ~ 2026.02 37기 DIVE SOPT iOS OB   
-👩🏻‍💻 2026.03 ~ 2026.07 38기 LET'S SOPT iOS Part Leader
+👩🏻‍💻 2026.03 ~ 2026.07 38기 LET'S SOPT iOS Part Leader   
 👩🏻‍💻 2026.08 ~  39기 SOPT makers iOS 챕터 
